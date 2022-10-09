@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bala1
+  - Bala2
+  - J2Ene1
+  - J2Ene2
+  - J2Ene3
+  - BalaAlien
+  - Snake
+  - Muro
+  - Manzana
+  - MuroIzq
+  - MuroDer
+  - Bola
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Invader
+  - Bala
+  - Pacman
+  - Pulpos
+  - Bolita
+  - Muro
+  - pianoTeclas
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
